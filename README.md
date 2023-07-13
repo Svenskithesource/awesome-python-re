@@ -82,7 +82,7 @@ A curated list of awesome Python reversing libraries, tools and resources.
 
 * [pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) - pyinstxtractor is the most popular extractor for PyInstaller. It supports almost all versions of PyInstaller. ([pyinstxtractor-ng](https://github.com/pyinstxtractor/pyinstxtractor-ng) and [pyinstxtractor-go](https://github.com/pyinstxtractor/pyinstxtractor-go) might be worth checking out aswell.)
 * [unpy2exe](https://github.com/matiasb/unpy2exe) - unpy2exe is an extractor for py2exe but is not maintained anymore and likely will fail on newer versions of py2exe.
-* Nuitka doesn't have an extractor but extracts itself into the temp folder. This won't include libraries used by the executable as they are embedded inside the file.
+* [nuitka-extractor](https://github.com/extremecoders-re/nuitka-extractor) - An extractor for nuitka. This basically does the same thing as looking in the `temp` folder, but without actually running the executable.
 
 ## Obfuscators
 
