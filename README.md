@@ -33,6 +33,7 @@ A curated list of awesome Python reversing libraries, tools and resources.
 * [decompile3](https://github.com/rocky/python-decompile3) - A Python decompiler aiming to support versions 3.7 - 3.8.
 * [uncompyle6](https://github.com/rocky/python-uncompyle6) - A Python decompiler aiming to support versions 1.0 - 3.8 (including Dropbox's Python 2.5 bytecode and some PyPy bytecodes).
 * [pycdc](https://github.com/zrax/pycdc) - A disassembler and decompiler written in C++ aiming to support all Python versions. This decompiler is known to be unstable.
+* [pycdc (snippet decompiler)](https://github.com/extremecoders-re/python-snippet-decompiler) - This tool decompiles individual snippets of Python bytecode as opposed to entire binary files, aiming to help manual decompilation of binaries that are unsupported by state-of-the-art Python decompilers.
 * [unpyc3.7-3.10](https://github.com/greyblue9/unpyc37-3.10) - A fork of a decompiler which aims to support versions 3.7 - 3.10.
 
 ## Debuggers
