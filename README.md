@@ -93,6 +93,7 @@ A curated list of awesome Python reversing libraries, tools and resources.
 * [Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka isn't officially seen as an obfuscator but because it compiles Python code to C code it definitely helps with making the code harder to understand. The [commercial version](https://nuitka.net/doc/commercial.html) does have some extra protection features.
 * [Cython](https://cython.org/) - Cython isn't officially seen as an obfuscator but because it compiles Python code to C code it definitely helps with making the code harder to understand.
 * [Hyperion](https://github.com/billythegoat356/Hyperion) - This obfuscator is unique since it's one of the only ones that actually transforms your Python code. Since it returns plain Python source code it can be used on any platform that has Python available.
+* [DIY PyArmor RFT](https://github.com/BetterWayElectronics/diy-pyarmor-rft-mode) - A Python source code renamer. This will attempt to rename as many names as it can without breaking the code. The project name comes from the PyArmor RFT mode, which also renames your code.
 
 The following obfuscators all work in similar ways: marshalling the original Python code and hiding it behind multiple layers of `exec` statements with potentionally some encryption/decryption.
 
