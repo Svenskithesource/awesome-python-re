@@ -60,6 +60,8 @@ A curated list of awesome Python reversing libraries, tools and resources.
 * [PyInjector](https://github.com/call-042PE/PyInjector) - An injector for Windows that allows you to inject Python code into any Python process. It can be useful to expose variables, functions, grab code objects and many other things.
 * [PythonForWindows](https://github.com/hakril/PythonForWindows) - This library allows you to interact with windows but also lets you inject Python code into another Python process without needing to inject a dll yourself.
 * [x-python](https://github.com/rocky/x-python) - A Python implementation of the C interpreter. It can be useful to run bytecode instruction by instruction.
+* [hypno](https://github.com/kmaork/hypno) - A cross-platform tool/library allowing to inject python code into a running python process. Can be installed through `pip`.
+* [PyInjecto](https://github.com/BetterWayElectronics/PyInjecto) - Acts as an interactive CLI tool for injecting/analyzing Python processes. Allows you to start an exe and suspend it to inject Python code without being detected by some anti-debug protection. Allows you to use DLL injection or Hypno (see above).
 
 ## Python internals
 
