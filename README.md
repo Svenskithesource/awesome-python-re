@@ -30,6 +30,7 @@ A curated list of awesome Python reversing libraries, tools and resources.
 
 *Python bytecode decompilers.*
 
+* [pylingual](https://github.com/syssec-utd/pylingual) ([web service](https://pylingual.io/)) - An AI decompiler for multiple, more recent, Python versions. Has built-in output checking and is in general one of the better decompilers out there.
 * [decompile3](https://github.com/rocky/python-decompile3) - A Python decompiler aiming to support versions 3.7 - 3.8.
 * [uncompyle6](https://github.com/rocky/python-uncompyle6) - A Python decompiler aiming to support versions 1.0 - 3.8 (including Dropbox's Python 2.5 bytecode and some PyPy bytecodes).
 * [pycdc](https://github.com/zrax/pycdc) - A disassembler and decompiler written in C++ aiming to support all Python versions. This decompiler is known to be unstable.
