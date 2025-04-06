@@ -113,6 +113,7 @@ The following obfuscators all work in similar ways: marshalling the original Pyt
 
 * [PyArmor-Unpacker](https://github.com/Svenskithesource/PyArmor-Unpacker) - The most popular deobfuscator for the obfuscator Pyarmor. It only supports the free version of Pyarmor.
 * [bonedensity](https://github.com/nesrak1/bonedensity) - A deobfuscator for the obfuscator PyArmor. Supports both the free and the paid Super mode.
+* [Pyarmor-Static-Unpack-1shot](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot) - A deobfuscator for the obfuscator Pyarmor 8.0 and above. Supports both free and pro versions.
 * [Hyperion-deobfuscator](https://github.com/xKiian/Hyperion-deobfuscator) - A deobfuscator for the obfuscator Hyperion.
 * [nuitka-helper](https://github.com/goatmilkkk/nuitka-helper) - Not a deobfuscator but a tool that does symbol recovery for Nuitka samples. Read the blog post linked in the README.
 
