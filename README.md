@@ -23,6 +23,7 @@ A curated list of awesome Python reversing libraries, tools and resources.
 *Python bytecode disassemblers.*
 
 * [dis](https://docs.python.org/3/library/dis.html) - The built-in Python disassembler.
+* [pyfalcon](https://github.com/Svenskithesource/pyfalcon) - A cross-version Python disassembler written in Rust. Has a [web version](https://pyfalcon.svenskithesource.be).
 * [xdis](https://github.com/rocky/python-xdis) - A Python cross-version bytecode library and disassembler.
 * [pycdas](https://github.com/zrax/pycdc) - A disassembler and decompiler written in C++ aiming to support all Python versions.
 
