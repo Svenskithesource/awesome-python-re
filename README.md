@@ -105,6 +105,7 @@ The following obfuscators all work in similar ways: marshalling the original Pyt
 * [pyobfuscate](https://pyobfuscate.com/public/pyd2)
 * [development tools's obfuscator](https://development-tools.net/python-obfuscator/)
 * [Anubis](https://github.com/0sir1ss/Anubis)
+* [PELock Obfuscator & Virtualizer](https://www.pelock.com/python-obfuscator/)
 
 ## Deobfuscators
 
